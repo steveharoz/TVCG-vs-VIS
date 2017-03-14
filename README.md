@@ -3,8 +3,8 @@ Differences and similarities between TVCG and VIS papers
 
 ## Similarities
  * Both are published in TVCG at the end (and are indistinguishable to people outside of the community)
- * Both get talks at VIS (assuming TVCG paper is content appropriate)
- * Both have a similar pool of AEs/PCs
+ * Both get talks at VIS (assuming TVCG paper is about visualization, not graphics)
+ * Both have a similar pool of associate editors / program committee members
  * Both allow the author's PDF on the author's website
 
 ## Differences
@@ -12,10 +12,10 @@ Differences and similarities between TVCG and VIS papers
 |:---------------------------|:-----------------------------------------------------|:-------------------------------------------------------------|
 |**Submission Deadline**     |No deadline                                           |March 31, 5:00 pm (PDT)                                       |
 |**Max Length**              |14 pages (regular paper)                              |9 pages + 2 reference pages                                   |
-|**Overall Review Duration** |*awaiting reply from Leila*                           |fixed duration review                                         |
+|**Overall Review Duration** |*awaiting reply from Leila*                           |2.5 months (1st round), 3 weeks (author revision), 2 weeks (2nd round)  |
 |**Review Outcomes**         |Accept, Minor revision, Major revision, Resubmit as new, Reject |Conditional accept, Reject                           |
 |**Revision Count**          |up to 1 major + multiple minor revisions              |1 minor revision                                               |
-|**Response Deadline**       |1(minor) to 6(major) months for revision              |3 weeks for revision                                           |
+|**Revision Deadline**       |1(minor) to 6(major) months for revision              |3 weeks for revision                                           |
 |**Reviewers**               |1 associate editor + 3 reviewers (+1 AEIC?)           |2 PC members + 2 external reviewers + discussion               |
 |**Preprint**                |preprint published shortly after acceptance           |camera-ready version published shortly after final submission |
 |**Publication Delay**       |~1 year between accept and publication                |~6 months between accept and publication                       |
