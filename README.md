@@ -10,6 +10,7 @@ Differences and similarities between TVCG and VIS papers
 ## Differences
 |                            |TVCG                                                  |VIS                                                           |
 |:---------------------------|:-----------------------------------------------------|:-------------------------------------------------------------|
+|**Submission Deadline**     |No deadline                                           |March 31, 5:00 pm (PDT)                                       |
 |**Length**                  |14 pages (regular paper)                              |9 pages + 2 reference pages                                   |
 |**Overall Review Duration** |*awaiting reply from Leila*                           |fixed duration review                                         |
 |**Review Outcomes**          |Accept, Minor revision, Major revision, Resubmit as new, Reject |Conditional accept, Reject                                         |
