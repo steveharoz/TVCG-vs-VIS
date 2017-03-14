@@ -12,7 +12,7 @@ Differences and similarities between TVCG and VIS papers
 |:---------------------------|:-----------------------------------------------------|:-------------------------------------------------------------|
 |**Submission Deadline**     |No deadline                                           |March 31, 5:00 pm (PDT)                                       |
 |**Max Length**              |14 pages (regular paper)                              |9 pages + 2 reference pages                                   |
-|**Overall Review Duration** |*awaiting reply from Leila*                           |2.5 months (1st round), 3 weeks (author revision), 2 weeks (2nd round)  |
+|**Overall Review Duration** |*awaiting reply from Leila*                           |~4 months                                                     |
 |**Review Outcomes**         |Accept, Minor revision, Major revision, Resubmit as new, Reject |Conditional accept, Reject                           |
 |**Revision Count**          |up to 1 major + multiple minor revisions              |1 minor revision                                               |
 |**Revision Deadline**       |1(minor) to 6(major) months for revision              |3 weeks for revision                                           |
