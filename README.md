@@ -2,7 +2,7 @@
 Differences and similarities between TVCG and VIS papers
 
 ## Similarities
- * Both are published in TVCG at the end (and are indistinguishable to people outside of the community)
+ * Both are published in TVCG and are indistinguishable to people outside of the community
  * Both get talks at VIS (assuming TVCG paper is about visualization, not graphics)
  * Both have a similar pool of associate editors / program committee members
  * Both allow the author's PDF on the author's website
@@ -13,7 +13,9 @@ Differences and similarities between TVCG and VIS papers
 |**Submission Deadline**     |No deadline                                           |March 31, 5:00 pm (PDT)                                       |
 |**Max Length**              |14 pages (regular paper)                              |9 pages + 2 reference pages                                   |
 |**Overall Review Duration** |*awaiting reply from Leila*                           |~4 months                                                     |
+|**Acceptance Rate**         |28% *(unclear)*                                       |20-25%                                                        |
 |**Review Outcomes**         |Accept, Minor revision, Major revision, Resubmit as new, Reject |Conditional accept, Reject                          |
+|**Review duration**         |New submission: ~2.5 months <br> Major resubmission: *?* <br> Minor resubmission: *?* |New submission: ~2.5 months <br> Minor resubmission: 2 weeks |
 |**Revision Count**          |up to 1 major + multiple minor revisions              |1 minor revision                                              |
 |**Revision Deadline**       |1(minor) to 6(major) months for revision              |3 weeks for revision                                          |
 |**Reviewers**               |1 associate editor + 3 reviewers (+1 AEIC?)           |2 PC members + 2 external reviewers + discussion              |
