@@ -1,4 +1,5 @@
 SubmissionID,SubmissionDate,DecisionDate,Decision,DatePublished,IssueDate,Notes
+Full ID, YYYY-MM-DD, YYYY-MM-DD, Accept/Minor/Major/Resubmit as new/Reject, (if accept), (if accept), (optional)
 TVCG-2015-06-0152,2015-06-18,2015-08-25,Minor,,,
 TVCG-2015-06-0152.R1,2015-09-26,2015-10-17,Minor,,,
 TVCG-2015-06-0152.R2,2015-10-18,2015-10-23,Accept,2015-11-20,2016-09-01,Revision to fix currupt figure
