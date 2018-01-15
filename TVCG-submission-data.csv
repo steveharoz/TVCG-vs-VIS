@@ -1,5 +1,11 @@
 SubmissionID,SubmissionDate,DecisionDate,Decision,DatePublished,IssueDate,Notes
 Full ID, YYYY-MM-DD, YYYY-MM-DD, Accept/Minor/Major/Resubmit as new/Reject, (if accept), (if accept), (optional)
+TVCG-2017-08-0245,2017-08-08,2017-11-26,Major,,,
 TVCG-2015-06-0152,2015-06-18,2015-08-25,Minor,,,
 TVCG-2015-06-0152.R1,2015-09-26,2015-10-17,Minor,,,
 TVCG-2015-06-0152.R2,2015-10-18,2015-10-23,Accept,2015-11-20,2016-09-01,Revision to fix currupt figure
+TVCG-2012-09-0211,2012-09-27,2013-01-19,Major,,,
+TVCG-2012-09-0211.R1,2013-04-17,2013-06-21,Minor,,,
+TVCG-2012-09-0211.R2,2013-07-21,2013-07-28,Accept,2013-08-16,2014-02-01,
+TVCGSI-2011-06-0125,2011-06-10,2011-08-22,Minor,,,PacificVis invited submission
+TVCGSI-2011-06-0125.R1,2011-09-21,2011-10-05,Accept,2011-10-18,2012-09-01,
