@@ -3,7 +3,7 @@ Differences and similarities between TVCG and VIS papers
 
 ## Similarities
  * Both are published in TVCG and are indistinguishable to people outside of the community
- * Both get talks at VIS [policy](https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences) (assuming TVCG paper is about visualization, not graphics)
+ * Both get talks at VIS [[policy](https://www.computer.org/digital-library/journals/tvcg/tvcg-partners-with-conferences)] (assuming TVCG paper is about visualization, not graphics)
  * Both have a similar pool of [associate editors](https://www.computer.org/web/tvcg/about) / [program committee members](http://ieeevis.org/year/2017/info/committees/infovis-program-committee)
  * Both allow the author's PDF to be posted on the author's or institution's site or a preprint server ([section 2](https://www.ieee.org/content/dam/ieee-org/ieee/web/org/pubs/author_faq.pdf))
 
