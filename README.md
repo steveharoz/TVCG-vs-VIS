@@ -28,4 +28,4 @@ Differences and similarities between TVCG and VIS papers
 |**Open Access**             |$2045                                                 |Not clear if available                                        |
 |**Conference Talk**         |At author's request                                   |Talk required or publication could be withdrawn ([8.2.1.B.13](https://www.ieee.org/documents/opsmanual.pdf)) |
 |**Talk Delay**              |Same year if talk requested before June 15            |3-4 months after acceptance                                   |
-|**Best Paper Award**        |Inelligible                                           |Elligible                                                     |
+|**Best Paper Award**        |Ineligible                                            |Eligible                                                      |
